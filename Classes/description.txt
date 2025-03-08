@@ -1,0 +1,33 @@
+Spin faster than the wind!
+
+You spent days and days training with your best friend Taz to learn and master his incredible vortex skill... And you made it! Nothing will be on your way any more.
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Taz Goat: You can become a vortex and destroy everything on your path.
+
+[b]COMMANDS[/b]
+- [b]Ragdoll + [E]:[/b] Enable/disable vortex power.
+- [b]Vortex + [SpaceBar]:[/b] Jump.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b]Ragdoll + [X]:[/b] Enable/disable vortex power.
+- [b]Vortex + [A]:[/b] Jump.
+
+[b]CHARACTERISTICS[/b]
+- When the vortex is active, you spin on yourself, hover a bit and destroy everything you touch.
+- The vortex will stop if you unragdoll.
+
+[b]EASTER EGGS[/b]
+- [spoiler]The Baaa key now produce Taz sounds[/spoiler].
+
+[b]KNOWN BUGS[/b]
+- Parts of your body can get stuck inside buildings if you hit them too fast with the vortex active. Unragdoll to fix it, respawn if you can't.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This mod was requested by FeatherButtRaptor in a discussion of the ZGG mod page, and the first thing I thought about it is that it would be really fun but impossible to control.
+After trying (and failing) to make some other mods I had in mind, I tried to do this one and noticed that it may be possible to make it controllable by changing the time scale of the goat, and after many tweaks I managed to get a spinning goat that could move in the direction you press.
+Anyway one big problem was still there: as long as the goat was on the ground, the spin speed was really slow (because of collisions with the ragdoll). I fixed this issue by adding a little hover effect on the goat to make it float close to the ground without touching it.
+Finally, the destructive power of the spinning goat was really bad and the spin was stopped by almowt anything you hit, so I had to find another way to destroy the stuff you touch... And for that used an old method I created with the APM mod: I generated invisible explosions around the goat body to destroy everything in a close radius.
+[/quote]
